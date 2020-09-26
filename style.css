@@ -11,7 +11,7 @@ body {
     margin: 50px auto;
     background-color: rgba(247, 208, 208, 0.801);
     box-shadow: 2px 2px 5px rgb(80, 31, 31);
-    color: black;
+    color: rgb(148, 75, 75);
     padding-bottom: 30px;
 }
 .wrapper h1, h3 {
