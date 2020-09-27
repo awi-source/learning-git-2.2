@@ -23,5 +23,8 @@ body {
     font-size: 1.2em;
 }
 h1 {
-    color: red;
+    color: blue;
+}
+p {
+    color: white;
 }
